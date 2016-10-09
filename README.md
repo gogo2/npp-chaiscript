@@ -9,4 +9,5 @@
   1. Select all of the new file, copy, and paste at the end of the current file.
   2. This will have created a spurious </Notepad_Plus><Notepad_plus> pair i the middle, each tag on a line by itself. Remove these two consecutive lines.
   3. Close Notepad++.
+  
 Your Languages menu will show the newly added language at the bottom, next time you launch Notepad++.
