@@ -4,7 +4,7 @@
 
 #### Features
 * Syntax highlighting
-* Simple autocompletion
+* Simple autocomplete
 
 #### Supported color schemes
 * Notepad++ Default
@@ -18,8 +18,8 @@
 3. Click import and choose language _.xml_ file.
 4. Restart Notepad++, newly added language will be shown at the bottom of the Language menu.
 
-##### Autocompletion
+##### Autocomplete
 1. Take **ChaiScript.xml** file.
-2. If you want to use autocompletion for ChaiScript on Darcula theme, rename it to **ChaiScript_Darcula.xml**
-3. Copy it to _C:/Program Files/Notepad++/plugins/APIs_.
+2. If you want to use autocomplete for ChaiScript on Darcula theme, rename it to **ChaiScript_Darcula.xml**
+3. Copy to _c:\Program Files\Notepad++\plugins\APIs_.
 4. Restart Notepad++.
